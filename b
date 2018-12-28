@@ -1,5 +1,5 @@
 {
-"lol":"http:/zz365.in?pid=77067",
+"lol":"http://zzc9345.com/m-welcome.html",
 "objectId":"1",
 "isShowTabbar":1,
 }
